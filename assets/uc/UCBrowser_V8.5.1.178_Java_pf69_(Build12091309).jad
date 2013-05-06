@@ -1,0 +1,16 @@
+MIDlet-Name: UC浏览器
+MIDlet-Version: 8.5.1
+MIDlet-Vendor: UC Mobile
+MIDlet-Jar-URL: http://wap3.ucweb.com/files/UCBrowser/zh-cn/999/UCBrowser_V8.5.1.178_Java_pf69_(Build12091309).jar
+MIDlet-Jar-Size: 451136
+MIDlet-Icon: /l.png
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: UC浏览器,/l.png,cn.uc.application.app.WebClient
+MIDlet-Info-URL: http://wap.ucweb.com
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Permissions-Opt: javax.microedition.io.Connector.https,javax.microedition.io.Connector.file.read,javax.microedition.io.Connector.file.write,javax.microedition.io.Connector.socket,javax.microedition.io.sms,javax.microedition.io.Connector.sms,javax.wireless.messaging.sms.send,javax.wireless.messaging.sms.receive,javax.microedition.media.control.VideoControl.getSnapshot,javax.microedition.pim.ContactList.read,javax.microedition.content.ContentHandler
+Background: True
+Nokia-MIDlet-No-Exit: true
+m_ch: default@wap.ucweb.com:201210189n1bOXAW56Qg:12658
+MIDlet-Install-Notify: http://wap.tj.ucweb.com/index.php?action=InstallNotify&d=201210189n1bOXAW56Qg:12658&platform=69&channel=999&product=UCBrowser&lang=zh-cn&version=8.5.1.178
